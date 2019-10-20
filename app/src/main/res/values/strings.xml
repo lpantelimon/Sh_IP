@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sh_IP</string>
+    <string name="title_activity_maps">Sh_IP</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBH0wr3hTqAGALbypKToU3Yp1NpZVZs97k</string>
+</resources>

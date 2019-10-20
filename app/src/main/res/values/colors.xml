@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/shBlue</color>
+    <color name="colorPrimaryDark">@color/shDarkBlue</color>
+    <color name="colorAccent">@color/shLightBlue</color>
+
+    <color name="shWhite">#ffffff</color>
+    <color name="shLightBlue">#46d3fa</color>
+    <color name="shBlue">#345eeb</color>
+    <color name="shDarkBlue">#1a358f</color>
+</resources>
